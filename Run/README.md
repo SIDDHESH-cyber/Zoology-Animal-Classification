@@ -1,3 +1,3 @@
-# Use This Script To Run The Application 
+# Use This Script To Run The Application (Read Below For Details)
 
 # NOTE : Keep Both The Files On Desktop (Not Inside The Folder) 
