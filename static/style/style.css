@@ -1,0 +1,39 @@
+#mySlider {
+    margin-left: 210px;
+  }
+
+  @media (max-width: 450px) {
+    #mySlider {
+      margin-left: 90px;
+    }
+
+    #output{
+      width: 320px !important;
+    }
+
+  }
+  input {
+    z-index: -1;
+    visibility: none;
+    position: absolute;
+    justify-content: center;
+
+  }
+
+/* .cid-tP0ZCjbRHC {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    background-color: #edefeb;
+} */
+
+/* .cid-tP3t8NHCat {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ff7d19;
+} */
+
+/* .cid-tL7oDZlVRK {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #f7f7f7;
+} */
