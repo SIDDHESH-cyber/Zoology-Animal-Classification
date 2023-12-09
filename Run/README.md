@@ -10,8 +10,7 @@
 * objShell.Run: This method is used to run a command or script. The command being run is enclosed in double quotes.
 * cmd : This starts the Command Prompt (cmd) and keeps it open after executing the command.
 * /K : It is used to run the specified command and then return to the Command Prompt(In Simple words it tells CMD To stay Open after Execution).
-* D:: This changes the current drive to the D: drive(Cur).
-* Change Folder Location : Replace (D:/) with (Your/folder/path) or replace the path according to your Need!
+* cd.. : It changes the current directory to the parent directory (one level up in the directory tree)
 * &&: This is the logical AND operator in the Command Prompt. It allows you to chain multiple commands, and the subsequent command is executed only if the previous one succeeds
 * python app.py : This runs the Python script named "app.py".
 * streamlit run streamlit_app.py: This runs the Streamlit App(Python) named "streamlit_app.py.
