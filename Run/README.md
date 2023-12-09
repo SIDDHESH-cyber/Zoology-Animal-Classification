@@ -5,3 +5,4 @@
 # It Uses vbs script 
 
 Break Down of Script :-
+Change Folder Location : Replace (D:/) with (Your/folder/path) 
