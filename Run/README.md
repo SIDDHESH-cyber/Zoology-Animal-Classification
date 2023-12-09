@@ -2,6 +2,6 @@
 
 # NOTE : Keep Both The Files On Desktop (Not Inside The Folder) 
 
-It Uses vbs script :-
+# It Uses vbs script 
 
 Break Down of Script :-
