@@ -6,3 +6,8 @@ Detail About Project
 
 Used Technology About Project 
 
+Tensorflow 
+Streamlit 
+Flask
+Bootstrap
+Javascript
