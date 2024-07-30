@@ -1,0 +1,20 @@
+html 
+css
+js 
+bootstrap 
+flask & curd operation
+git and github
+monogodb
+node js - basic rev 
+spring boot basic - rev 
+react basci - learing
+sqlite3 db
+
+sql query and no-sql query - 
+
+interview question for python , java , javascript - hiten codes 
+and sql and nosql too
+
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
